@@ -1,0 +1,11 @@
+ Mac & IDE stuff
+.DS_Store
+__pycache__
+.cache
+
+# project stuff
+.ipynb_checkpoints/*
+*.tsv
+*.csv
+*.zip
+
